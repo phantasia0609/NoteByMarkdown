@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ef0abf179392c0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7142c8e4688af851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "237946e12665fc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构/查找/二叉排序树.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d55bfd173dfb4662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840a6f5ad4773d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thing-Theme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18fc9ae43a7072b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c17eaa55fc22d4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc17207f71606482",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c6d6d290d1a89e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f0cee76e2481ed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "dd13ca15de2e0794",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a99288dd9c048c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024c8c15a5bd743d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据结构/查找/二叉排序树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e634d212bfcf52b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数据结构/查找/二叉排序树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61c3e321f63ae3de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3148b8fd6329e04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据结构/查找/二叉排序树.md"
+              }
+            }
+          },
+          {
+            "id": "f4c3c19fb98fffcb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "fc17207f71606482",
+  "lastOpenFiles": [
+    "数据结构/查找/二叉排序树.md",
+    "数据结构/树/并查集.md",
+    "数据结构/图/图的遍历 - BFS广度优先.md",
+    "日记/2023-11-05.md",
+    "数据结构/查找/散列查找（下）.md",
+    "日记/2023-11-23.md",
+    "数据结构/查找/散列查找（上）.md",
+    "数据结构/查找/B+ Tree.md",
+    "数据结构/查找/B Tree 的查找和删除.md",
+    "数据结构/查找/B Tree（B-树）.md",
+    "数据结构/查找/查找的基本概念.md",
+    "().md.nssyncsc",
+    "().md",
+    "公式汇总.md",
+    "markdown语法.md",
+    "需求分析与专业导论/作业2.md",
+    "需求分析与专业导论/未命名.md",
+    "需求分析与专业导论/未命名.md.nssyncsc",
+    "需求分析与专业导论/作业1.md",
+    "需求分析与专业导论/《软件工程专业导论》作业报告（模板）2023.doc",
+    "需求分析与专业导论",
+    "数据结构/查找/平衡二叉树（AVL）.md",
+    "test.md",
+    "数据结构/查找/平衡二叉树 - 删除.md",
+    "数据结构/查找/未命名.md.nssyncsc",
+    "数据结构/查找/查找算法 - 分块查找.md",
+    "数据结构/查找/查找算法 - 折半查找.md",
+    "数据结构/查找/查找算法 - 顺序查找.md",
+    "数据结构/图/关键路径.md",
+    "数据结构/查找",
+    "数据结构/图/拓扑排序、逆拓扑排序.md",
+    "数据结构/图/图的存储 - 邻接矩阵法.md",
+    "_remotely-save-metadata-on-remote.json",
+    "_remotely-save-metadata-on-remote.json.nssyncsc",
+    "数据结构/图.md.nssyncsc",
+    "数据结构/公式.md.nssyncsc",
+    "数据结构/图片/Pasted image 20231018010158.png",
+    "数据结构/图片/Pasted image 20231018010005.png",
+    "数据结构/图片/Pasted image 20231018005842.png",
+    "数据结构/图片/Pasted image 20231018005419.png",
+    "数据结构/图片/Pasted image 20231018004337.png",
+    "数据结构/图片/Pasted image 20231018004314.png",
+    "数据结构/图片/Pasted image 20231018004022.png",
+    "数据结构/图片/Pasted image 20231018003849.png",
+    "SQL/图片/Pasted image 20231016132220.png",
+    "SQL/图片/Pasted image 20231016131951.png"
+  ]
+}
