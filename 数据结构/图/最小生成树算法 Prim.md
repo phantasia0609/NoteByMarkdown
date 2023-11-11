@@ -229,4 +229,3 @@ int main() {
 
 }
 ```
-nihao
