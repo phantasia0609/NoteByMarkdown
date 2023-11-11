@@ -1,0 +1,13 @@
+{
+  "shimmering-focus@@show-urls": true,
+  "shimmering-focus@@show-new-tab-button": true,
+  "shimmering-focus@@show-tab-list-button": true,
+  "shimmering-focus@@show-sidebar-toggle-buttons": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@show-search-pane-suggestions": true,
+  "shimmering-focus@@show-ribbon": true,
+  "shimmering-focus@@hide-settings-button": false,
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "shimmering-focus@@show-vault-in-file-explorer": true,
+  "shimmering-focus@@show-file-explorer-navigation": true
+}

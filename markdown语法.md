@@ -1,0 +1,70 @@
+
+### 作业部分链接
+	其实挺好的
+>asasdasdasd 
+>>asdasdasd
+>>>asdasdasdasd
+>>>- asdasdasd
+>>>- asdasdasd
+
+**a**
+__a__
+我不能*理解*啊啊啊
+*** 这是什么 ***
+
+1. asd 
+	1. NIHAO 
+	- MOJAP
+
+> asdasdasd
+
+`` 你好` 为啥呢 ` 嗨嗨嗨 ``
+`` 你好 `asdasdasd`  asd  `` 
+ ``Use `code` in your Markdown file.``
+
+
+这是一个链接 [Markdown语法](https://markdown.com.cn)。
+
+
+这是一个链接 [Markdown语法](https://markdown.com.cn "最好的markdown教程")。
+
+<https://markdown.com.cn>
+<fake@example.com>
+
+
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+[hobbit-hole][1] 
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
+
+[link](https://www.example.com/my%20great%20page)
+<br>
+ 
+
+![这是图片](philly-magic-garden.jpg.md "Magic Gardens")
+
+
+[![沙漠中的岩石图片](shiprock.jpg.md "Shiprock")](https://markdown.com.cn)
+
+\* 什么叫渲染呢
+
+&
+&amp;
+
+\转义字符
+[asdasd]\(www.baidu.com)
+![[Pasted image 20231015230652.png]]
+
+~~嗨嗨嗨~~
+
+
+
+---------------------------
+
+
+
