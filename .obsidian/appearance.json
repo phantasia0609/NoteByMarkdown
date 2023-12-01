@@ -5,5 +5,7 @@
   "textFontFamily": "Fira Code Retina,Fira Code",
   "monospaceFontFamily": "Fira Code,Fira Code Retina",
   "interfaceFontFamily": "Fira Code",
-  "baseFontSize": 21
+  "baseFontSize": 19,
+  "nativeMenus": false,
+  "translucency": false
 }

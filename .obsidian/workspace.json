@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/图/最小生成树算法 Prim.md",
-                "mode": "preview",
+                "file": "需求分析与专业导论/五个关系.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/图/最小生成树算法 Prim.md",
+                "file": "需求分析与专业导论/五个关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/图/最小生成树算法 Prim.md",
+                "file": "需求分析与专业导论/五个关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/图/最小生成树算法 Prim.md"
+                "file": "需求分析与专业导论/五个关系.md"
               }
             }
           },
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +160,19 @@
   },
   "active": "93e1b6d09673b285",
   "lastOpenFiles": [
-    "数据结构/树/并查集.md",
+    "智能家居/文件/Pasted image 20231015230643.png",
+    "需求分析与专业导论/五个关系.md",
+    "智能家居/作业1.md",
+    "智能家居/测试.md",
+    "SQL/SQL概述.md",
+    "数据结构/图/最小生成树算法 Kruskal.md",
+    "test.md",
+    "README.en.md",
+    "Thing-Theme.md",
+    "README.md",
     "().md",
+    "数据结构/图/最小生成树算法 Prim.md",
+    "数据结构/树/并查集.md",
     "().md.nssyncsc"
   ]
 }

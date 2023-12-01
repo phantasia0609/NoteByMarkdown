@@ -11,5 +11,6 @@
   "highlightr-plugin",
   "better-word-count",
   "better-reading-mode",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-image-auto-upload-plugin"
 ]
