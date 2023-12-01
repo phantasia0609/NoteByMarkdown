@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "需求分析与专业导论/五个关系.md",
                 "mode": "source",
+=======
+                "file": "数据结构/图/最小生成树算法 Prim.md",
+                "mode": "preview",
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
                 "source": false
               }
             }
@@ -85,7 +90,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "需求分析与专业导论/五个关系.md",
+=======
+                "file": "数据结构/图/最小生成树算法 Prim.md",
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "需求分析与专业导论/五个关系.md",
+=======
+                "file": "数据结构/图/最小生成树算法 Prim.md",
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "需求分析与专业导论/五个关系.md"
+=======
+                "file": "数据结构/图/最小生成树算法 Prim.md"
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
               }
             }
           },
@@ -141,8 +158,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
+=======
+    "width": 300
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +181,7 @@
   },
   "active": "93e1b6d09673b285",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "智能家居/文件/Pasted image 20231015230643.png",
     "需求分析与专业导论/五个关系.md",
     "智能家居/作业1.md",
@@ -173,6 +195,10 @@
     "().md",
     "数据结构/图/最小生成树算法 Prim.md",
     "数据结构/树/并查集.md",
+=======
+    "数据结构/树/并查集.md",
+    "().md",
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
     "().md.nssyncsc"
   ]
 }

@@ -41,6 +41,7 @@
 #### 代码实现
 ```cpp
 #include <iostream>
+<<<<<<< HEAD
 #include <vector>
 #include <algorithm>
 using namespace std；
@@ -49,6 +50,31 @@ struct Edge {
     //  起始  结束  权重
     int src, dest, weight;
 };
+=======
+
+#include <vector>
+
+#include <algorithm>
+
+  
+
+using namespace std;
+
+  
+
+// 定义图的边
+
+struct Edge {
+
+    //  起始  结束  权重
+
+    int src, dest, weight;
+
+};
+
+  
+
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
 // 定义并查集的数据结构
 
 class UnionFind {

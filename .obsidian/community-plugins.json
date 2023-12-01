@@ -11,6 +11,10 @@
   "highlightr-plugin",
   "better-word-count",
   "better-reading-mode",
+<<<<<<< HEAD
   "obsidian-annotator",
   "obsidian-image-auto-upload-plugin"
+=======
+  "obsidian-annotator"
+>>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
 ]
