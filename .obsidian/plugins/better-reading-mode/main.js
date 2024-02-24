@@ -739,7 +739,7 @@ var require_regexp_tree = __commonJS({
       __ = _1;
     }], [0, 4, function(_1, _2, _3, _4, _1loc, _2loc, _3loc, _4loc) {
       __loc = yyloc(_1loc, _4loc);
-      __ = Node({
+      __ = Node2({
         type: "RegExp",
         body: _2,
         flags: checkFlags(_4)
@@ -769,7 +769,7 @@ var require_regexp_tree = __commonJS({
         _loc = loc(_1loc || _2loc, _3loc || _2loc);
       }
       ;
-      __ = Node({
+      __ = Node2({
         type: "Disjunction",
         left: _1,
         right: _3
@@ -781,9 +781,9 @@ var require_regexp_tree = __commonJS({
         return;
       }
       if (_1.length === 1) {
-        __ = Node(_1[0], __loc);
+        __ = Node2(_1[0], __loc);
       } else {
-        __ = Node({
+        __ = Node2({
           type: "Alternative",
           expressions: _1
         }, __loc);
@@ -796,12 +796,12 @@ var require_regexp_tree = __commonJS({
       __ = _1.concat(_2);
     }], [7, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
-      __ = Node(Object.assign({ type: "Assertion" }, _1), __loc);
+      __ = Node2(Object.assign({ type: "Assertion" }, _1), __loc);
     }], [7, 2, function(_1, _2, _1loc, _2loc) {
       __loc = yyloc(_1loc, _2loc);
       __ = _1;
       if (_2) {
-        __ = Node({
+        __ = Node2({
           type: "Repetition",
           expression: _1,
           quantifier: _2
@@ -904,21 +904,21 @@ var require_regexp_tree = __commonJS({
       __ = _1;
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: _1,
         greedy: true
       }, __loc);
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: _1,
         greedy: true
       }, __loc);
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: _1,
         greedy: true
@@ -926,7 +926,7 @@ var require_regexp_tree = __commonJS({
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
       var range = getRange(_1);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: "Range",
         from: range[0],
@@ -935,7 +935,7 @@ var require_regexp_tree = __commonJS({
       }, __loc);
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: "Range",
         from: getRange(_1)[0],
@@ -944,7 +944,7 @@ var require_regexp_tree = __commonJS({
     }], [13, 1, function(_1, _1loc) {
       __loc = yyloc(_1loc, _1loc);
       var range = getRange(_1);
-      __ = Node({
+      __ = Node2({
         type: "Quantifier",
         kind: "Range",
         from: range[0],
@@ -965,7 +965,7 @@ var require_regexp_tree = __commonJS({
         throw new SyntaxError('Duplicate of the named group "' + name + '".');
       }
       namedGroups[name] = _1.groupNumber;
-      __ = Node({
+      __ = Node2({
         type: "Group",
         capturing: true,
         name,
@@ -975,7 +975,7 @@ var require_regexp_tree = __commonJS({
       }, __loc);
     }], [15, 3, function(_1, _2, _3, _1loc, _2loc, _3loc) {
       __loc = yyloc(_1loc, _3loc);
-      __ = Node({
+      __ = Node2({
         type: "Group",
         capturing: true,
         number: _1.groupNumber,
@@ -983,21 +983,21 @@ var require_regexp_tree = __commonJS({
       }, __loc);
     }], [16, 3, function(_1, _2, _3, _1loc, _2loc, _3loc) {
       __loc = yyloc(_1loc, _3loc);
-      __ = Node({
+      __ = Node2({
         type: "Group",
         capturing: false,
         expression: _2
       }, __loc);
     }], [17, 3, function(_1, _2, _3, _1loc, _2loc, _3loc) {
       __loc = yyloc(_1loc, _3loc);
-      __ = Node({
+      __ = Node2({
         type: "CharacterClass",
         negative: true,
         expressions: _2
       }, __loc);
     }], [17, 3, function(_1, _2, _3, _1loc, _2loc, _3loc) {
       __loc = yyloc(_1loc, _3loc);
-      __ = Node({
+      __ = Node2({
         type: "CharacterClass",
         expressions: _2
       }, __loc);
@@ -1016,7 +1016,7 @@ var require_regexp_tree = __commonJS({
     }], [19, 4, function(_1, _2, _3, _4, _1loc, _2loc, _3loc, _4loc) {
       __loc = yyloc(_1loc, _4loc);
       checkClassRange(_1, _3);
-      __ = [Node({
+      __ = [Node2({
         type: "ClassRange",
         from: _1,
         to: _3
@@ -1033,7 +1033,7 @@ var require_regexp_tree = __commonJS({
     }], [20, 4, function(_1, _2, _3, _4, _1loc, _2loc, _3loc, _4loc) {
       __loc = yyloc(_1loc, _4loc);
       checkClassRange(_1, _3);
-      __ = [Node({
+      __ = [Node2({
         type: "ClassRange",
         from: _1,
         to: _3
@@ -1501,7 +1501,7 @@ var require_regexp_tree = __commonJS({
           throw new SyntaxError("Invalid " + name + " unicode property value: " + value + ".");
         }
       }
-      return Node({
+      return Node2({
         type: "UnicodeProperty",
         name,
         value,
@@ -1587,7 +1587,7 @@ var require_regexp_tree = __commonJS({
           break;
         }
       }
-      return Node({
+      return Node2({
         type: "Char",
         value,
         kind,
@@ -1628,7 +1628,7 @@ var require_regexp_tree = __commonJS({
     function GroupRefOrDecChar(text, textLoc) {
       var reference = Number(text.slice(1));
       if (reference > 0 && reference <= capturingGroupsCount) {
-        return Node({
+        return Node2({
           type: "Backreference",
           kind: "number",
           number: reference,
@@ -1673,7 +1673,7 @@ var require_regexp_tree = __commonJS({
       var referenceRaw = text.slice(3, -1);
       var reference = decodeUnicodeGroupName(referenceRaw);
       if (namedGroups.hasOwnProperty(reference)) {
-        return Node({
+        return Node2({
           type: "Backreference",
           kind: "name",
           number: namedGroups[reference],
@@ -1737,7 +1737,7 @@ var require_regexp_tree = __commonJS({
       }
       return chars;
     }
-    function Node(node, loc2) {
+    function Node2(node, loc2) {
       if (yy.options.captureLocations) {
         node.loc = {
           source: parsingString.slice(loc2.startOffset, loc2.endOffset),
@@ -5621,51 +5621,163 @@ function betterReadingExtension(app2, plugin) {
   });
 }
 
+// src/betterReadingMarker.ts
+function createHighlightSpan(word, index) {
+  const parentEl = createEl("span");
+  const boldEl = parentEl.createEl("strong");
+  boldEl.toggleClass("better-reading-highlight", true);
+  boldEl.setText(word.slice(0, index));
+  const restPart = word.slice(index);
+  const restEl = document.createTextNode(restPart);
+  parentEl.appendChild(restEl);
+  return parentEl;
+}
+var rules = [
+  {
+    regexPattern: "\\b[a-zA-Z\\u0400-\\u04FF]+\\b",
+    creator: (word) => {
+      let boldLength = 0;
+      const wordLength = word.trim().length;
+      if (wordLength < 3) {
+        boldLength = 1;
+      } else if (wordLength === 4) {
+        boldLength = 2;
+      } else {
+        boldLength = Math.ceil(wordLength * 0.5);
+      }
+      if (!boldLength)
+        return createSpan("strong");
+      return createHighlightSpan(word.trim(), boldLength);
+    }
+  }
+];
+function highlightTextInElement({
+  app: app2,
+  element,
+  rules: rules2,
+  settings
+}) {
+  if (!settings.betterReadingMode)
+    return;
+  const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT);
+  let node;
+  const nodesToProcess = [];
+  while (node = walker.nextNode()) {
+    nodesToProcess.push(node);
+  }
+  nodesToProcess.forEach((node2) => {
+    replaceTextWithElements(app2, node2, rules2);
+  });
+}
+function replaceTextWithElements(app2, node, rules2) {
+  var _a;
+  if (node.nodeType === Node.TEXT_NODE) {
+    let textContent = node.textContent || "";
+    rules2.forEach((rule) => {
+      let newTextContent = "";
+      let match;
+      const regex = new RegExp(rule.regexPattern, "g");
+      let lastIndex = 0;
+      while ((match = regex.exec(textContent)) !== null) {
+        const part = match[0];
+        const precedingText = textContent.substring(lastIndex, match.index);
+        newTextContent += precedingText;
+        const replacementElement = rule.creator(part);
+        newTextContent += `<span data-replace>${replacementElement.outerHTML}</span>`;
+        lastIndex = regex.lastIndex;
+      }
+      newTextContent += textContent.substring(lastIndex);
+      textContent = newTextContent;
+    });
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(textContent, "text/html");
+    console.log(doc.body.childNodes);
+    Array.from(doc.body.childNodes).forEach((newNode) => {
+      var _a2, _b;
+      if (newNode.nodeName === "#text") {
+        (_a2 = node.parentNode) == null ? void 0 : _a2.insertBefore(newNode.cloneNode(true), node);
+        return;
+      }
+      if (newNode.nodeName === "SPAN" && newNode.getAttribute("data-replace") === "") {
+        Array.from(newNode.childNodes).forEach((child) => {
+          var _a3;
+          (_a3 = node.parentNode) == null ? void 0 : _a3.insertBefore(child.cloneNode(true), node);
+        });
+      } else {
+        (_b = node.parentNode) == null ? void 0 : _b.insertBefore(newNode.cloneNode(true), node);
+      }
+    });
+    (_a = node.parentNode) == null ? void 0 : _a.removeChild(node);
+  }
+}
+
 // src/betterReadingIndex.ts
 var DEFAULT_SETTINGS = {
   betterReadingMode: false
 };
+var toogleMode = (app2) => {
+  const leaves = app2.workspace.getLeavesOfType("markdown");
+  leaves.forEach((leaf) => {
+    leaf.rebuildView();
+  });
+};
+var initStatusBar = (plugin) => {
+  return () => {
+    const statusBarRect = plugin.statusBarEl.parentElement.getBoundingClientRect();
+    const statusBarIconRect = plugin.statusBarEl.getBoundingClientRect();
+    const menu = new import_obsidian2.Menu().addItem((item) => {
+      item.setTitle("Better Reading").setIcon("book");
+      const itemDom = item.dom;
+      const toggleComponent = new import_obsidian2.ToggleComponent(itemDom).setValue(plugin.settings.betterReadingMode).setDisabled(true);
+      item.onClick((e) => {
+        e.preventDefault();
+        e.stopImmediatePropagation();
+        plugin.toggle(() => {
+          toogleMode(plugin.app);
+          toggleComponent.setValue(plugin.settings.betterReadingMode);
+          plugin.statusBarEl.setText(plugin.settings.betterReadingMode ? "BttRead Mode" : "Normal Mode");
+        });
+      });
+    });
+    const menuDom = menu.dom;
+    menuDom.addClass("br-statusbar-menu");
+    menu.showAtPosition({
+      x: statusBarIconRect.right + 5,
+      y: statusBarRect.top - 5
+    });
+  };
+};
 var BetterReadingPlugin = class extends import_obsidian2.Plugin {
+  constructor() {
+    super(...arguments);
+    this.toggle = (cb) => __async(this, null, function* () {
+      this.settings.betterReadingMode = !this.settings.betterReadingMode;
+      yield this.saveSettings();
+      cb == null ? void 0 : cb();
+    });
+  }
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
+      this.initCommands();
       this.setupStatusBar();
       this.addSettingTab(new BetterReadingSettingTab(this.app, this));
       this.registerEditorExtension(betterReadingExtension(this.app, this));
+      this.registerMarkdownPostProcessor((el, ctx) => {
+        highlightTextInElement({
+          app: this.app,
+          element: el,
+          rules,
+          settings: this.settings
+        });
+      });
     });
   }
   setupStatusBar() {
     this.statusBarEl = this.addStatusBarItem();
     this.statusBarEl.addClass("br-statusbar-button");
     this.statusBarEl.setText(this.settings.betterReadingMode ? "BttRead Mode" : "Normal Mode");
-    this.registerDomEvent(this.statusBarEl, "click", (e) => {
-      const statusBarRect = this.statusBarEl.parentElement.getBoundingClientRect();
-      const statusBarIconRect = this.statusBarEl.getBoundingClientRect();
-      const menu = new import_obsidian2.Menu().addItem((item) => {
-        item.setTitle("Better Reading");
-        item.setIcon("book");
-        const itemDom = item.dom;
-        const toggleComponent = new import_obsidian2.ToggleComponent(itemDom).setValue(this.settings.betterReadingMode).setDisabled(true);
-        const toggle = () => __async(this, null, function* () {
-          this.settings.betterReadingMode = !this.settings.betterReadingMode;
-          toggleComponent.setValue(this.settings.betterReadingMode);
-          this.statusBarEl.setText(this.settings.betterReadingMode ? "BttRead Mode" : "Normal Mode");
-          this.app.workspace.updateOptions();
-          yield this.saveSettings();
-        });
-        item.onClick((e2) => {
-          e2.preventDefault();
-          e2.stopImmediatePropagation();
-          toggle();
-        });
-      });
-      const menuDom = menu.dom;
-      menuDom.addClass("br-statusbar-menu");
-      menu.showAtPosition({
-        x: statusBarIconRect.right + 5,
-        y: statusBarRect.top - 5
-      });
-    });
+    this.registerDomEvent(this.statusBarEl, "click", () => initStatusBar(this)());
   }
   onunload() {
   }
@@ -5679,19 +5791,28 @@ var BetterReadingPlugin = class extends import_obsidian2.Plugin {
       yield this.saveData(this.settings);
     });
   }
+  initCommands() {
+    this.addCommand({
+      id: "toggle-better-reading-mode",
+      name: "Toggle better reading mode",
+      callback: () => __async(this, null, function* () {
+        yield this.toggle(() => {
+          toogleMode(this.app);
+        });
+      })
+    });
+  }
 };
 var BetterReadingSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
-    this.applyDebounceTimer = 0;
+    this.updateSettings = (0, import_obsidian2.debounce)(this.applySettingsUpdate.bind(this), 100);
     this.plugin = plugin;
   }
   applySettingsUpdate() {
-    clearTimeout(this.applyDebounceTimer);
-    const plugin = this.plugin;
-    this.applyDebounceTimer = window.setTimeout(() => {
-      plugin.saveSettings();
-    }, 100);
+    return __async(this, null, function* () {
+      yield this.plugin.saveSettings();
+    });
   }
   display() {
     const { containerEl } = this;
@@ -5699,7 +5820,8 @@ var BetterReadingSettingTab = class extends import_obsidian2.PluginSettingTab {
     containerEl.createEl("h2", { text: "\u{1F4DA} Better Reading" });
     new import_obsidian2.Setting(containerEl).setName("Toggle better reading mode").setDesc("Toggle this to enable better reading mode. You can also toggle this in status bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.betterReadingMode).onChange((value) => __async(this, null, function* () {
       this.plugin.settings.betterReadingMode = value;
-      this.applySettingsUpdate();
+      this.updateSettings();
+      toogleMode(this.app);
     })));
     this.containerEl.createEl("h2", { text: "Say Thank You" });
     new import_obsidian2.Setting(containerEl).setName("Donate").setDesc("If you like this plugin, consider donating to support continued development:").addButton((bt) => {

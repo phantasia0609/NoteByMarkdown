@@ -1,14 +1,3 @@
-<<<<<<< HEAD
 {
-  "highlightr-plugin:highlighter-plugin-menu": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "1"
-    }
-  ]
+  "obsidian-excalidraw-plugin:save": []
 }
-=======
-{}
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb

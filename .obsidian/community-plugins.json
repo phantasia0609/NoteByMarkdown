@@ -1,20 +1,19 @@
 [
-  "obsidian-style-settings",
-  "obsidian-git",
-  "templater-obsidian",
-  "obsidian-tasks-plugin",
-  "calendar",
-  "obsidian-kanban",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
+  "obsidian-image-auto-upload-plugin",
   "obsidian-advanced-slides",
-  "highlightr-plugin",
-  "better-word-count",
-  "better-reading-mode",
-<<<<<<< HEAD
+  "table-editor-obsidian",
   "obsidian-annotator",
-  "obsidian-image-auto-upload-plugin"
-=======
-  "obsidian-annotator"
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
+  "better-reading-mode",
+  "better-word-count",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "highlightr-plugin",
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "obsidian-git",
+  "mousewheel-image-zoom",
+  "easy-typing-obsidian",
+  "quick-latex"
 ]

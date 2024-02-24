@@ -1,28 +1,54 @@
 {
   "main": {
-    "id": "c8b4922e6464345c",
+    "id": "dccf033178e87c11",
     "type": "split",
     "children": [
       {
-        "id": "91001288338a1df6",
+        "id": "125528b23c35793e",
         "type": "tabs",
+        "dimension": 75.40485829959515,
         "children": [
           {
-            "id": "93e1b6d09673b285",
+            "id": "181f1592751591ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "需求分析与专业导论/五个关系.md",
+                "file": "编程学习/Git提交.md",
                 "mode": "source",
-=======
-                "file": "数据结构/图/最小生成树算法 Prim.md",
-                "mode": "preview",
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
                 "source": false
               }
+            },
+            "group": "887b399e64e00047"
+          },
+          {
+            "id": "582a12fbe118fe77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d1515e5adbd9c988",
+        "type": "tabs",
+        "dimension": 24.595141700404856,
+        "children": [
+          {
+            "id": "8ba2c481e5d0838d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程学习/Git提交.md"
+              }
+            },
+            "group": "887b399e64e00047"
           }
         ]
       }
@@ -30,15 +56,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7ba3359d9f0c3407",
+    "id": "5a7ae9cc640a2981",
     "type": "split",
     "children": [
       {
-        "id": "66cbb5b9291facb0",
+        "id": "128c5e20cfa59035",
         "type": "tabs",
         "children": [
           {
-            "id": "67fbfc7a195cdaad",
+            "id": "8f86931c65bf4b02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +74,7 @@
             }
           },
           {
-            "id": "d3c346acc4f6c6a9",
+            "id": "190b3c081efdf861",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +89,7 @@
             }
           },
           {
-            "id": "c01385bf89151f40",
+            "id": "a3a30778364e279e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,27 +100,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
-    "id": "8c8892a3da675e82",
+    "id": "f5726da5a1f0bd2d",
     "type": "split",
     "children": [
       {
-        "id": "7af58962ba9f2309",
+        "id": "92a856d86e82bce2",
         "type": "tabs",
         "children": [
           {
-            "id": "2d177155680de387",
+            "id": "07b365fefe50862e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "需求分析与专业导论/五个关系.md",
-=======
-                "file": "数据结构/图/最小生成树算法 Prim.md",
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
+                "file": "编程学习/Git提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,23 +128,19 @@
             }
           },
           {
-            "id": "86845beda5c884f5",
+            "id": "6dee0fa91171404c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "需求分析与专业导论/五个关系.md",
-=======
-                "file": "数据结构/图/最小生成树算法 Prim.md",
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
+                "file": "编程学习/Git提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "058c5e6911463e43",
+            "id": "e556d6fe1c4ccd29",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,37 +151,38 @@
             }
           },
           {
-            "id": "3cf9ebea8043ddc0",
+            "id": "b24e5dc3473e78d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "需求分析与专业导论/五个关系.md"
-=======
-                "file": "数据结构/图/最小生成树算法 Prim.md"
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
+                "file": "编程学习/Git提交.md"
               }
             }
           },
           {
-            "id": "4d686d5bdeda8819",
+            "id": "e114be920d154a8b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "fffcf712e605eb91",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 300,
     "collapsed": true
-=======
-    "width": 300
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,32 +192,62 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "93e1b6d09673b285",
+  "active": "582a12fbe118fe77",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "智能家居/文件/Pasted image 20231015230643.png",
-    "需求分析与专业导论/五个关系.md",
-    "智能家居/作业1.md",
-    "智能家居/测试.md",
-    "SQL/SQL概述.md",
-    "数据结构/图/最小生成树算法 Kruskal.md",
+    "编程学习/React/Notes/6.组件通信.md",
+    "编程学习/React/Notes/10.Redux环境.md",
+    "编程学习/React/Notes/9.Redux入门.md",
     "test.md",
-    "README.en.md",
-    "Thing-Theme.md",
-    "README.md",
-    "().md",
-    "数据结构/图/最小生成树算法 Prim.md",
-    "数据结构/树/并查集.md",
-=======
-    "数据结构/树/并查集.md",
-    "().md",
->>>>>>> 59acbd43a60b8ab8bef56c8dd59fe4801ead65cb
-    "().md.nssyncsc"
+    "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
+    "编程学习/Algorithm/Fun/一些无意义刷题/Fib.md",
+    "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
+    "编程学习/Algorithm/Fun/一些无意义刷题",
+    "编程学习/Algorithm/Fun/未命名.md",
+    "编程学习/Coding/c++/bitset.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
+    "编程学习/Coding/c++/未命名",
+    "编程学习/Algorithm/位运算双指针排序二分/4.二分【模板】.md",
+    "编程学习/Algorithm/位运算双指针排序二分/2.排序【模板】.md",
+    "编程学习/React/Notes/4.受控表单绑定.md",
+    "编程学习/React/Notes/7.useEffect的使用.md",
+    "编程学习/React/Sample/Sample1 B Comment demo1.md",
+    "编程学习/React/Sample/Sample 2 MT package demo2.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/4.set.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/3.map.md",
+    "编程学习/Coding/c++/Sort.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/2.优先队列.md",
+    "编程学习/Coding/c++/priority_queue初始化.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/1.栈.md",
+    "编程学习/Coding/c++/Unique.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset",
+    "编程学习/Coding/c++/Vector.md",
+    "编程学习/Algorithm/位运算双指针排序二分/3.双指针【模板】.md",
+    "编程学习/Algorithm/位运算双指针排序二分/异或结合律.md",
+    "编程学习/Algorithm/位运算双指针排序二分",
+    "编程学习/Algorithm/前缀和与拆分",
+    "编程学习/Algorithm/Fun",
+    "编程学习/Coding/JS",
+    "hit",
+    "未命名.canvas",
+    "编程学习/SQL 1/图片/Pasted image 20231016130505.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016105521.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016132220.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016111602.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016104140.png",
+    "hit/数据结构/图片/Pasted image 20231018004337.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016131951.png",
+    "编程学习/SQL 1/图片/Pasted image 20231016130445.png",
+    "hit/数据结构/图片/Pasted image 20231018005842.png",
+    "hit/数据结构/图片/Pasted image 20231018004022.png",
+    "公式.md.nssyncsc",
+    "毛概/演讲分工.md.nssyncsc"
   ]
 }
