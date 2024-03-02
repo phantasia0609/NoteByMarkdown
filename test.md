@@ -6,4 +6,5 @@
 5.  @阮 写一个接口 查询BPMN图中所有participant
     <bpmn2:participant id="Participant_06qakjv" name="Customer" />
     <bpmn2:participant id="Participant_0mgz9si" name="Pizza Place" />
-    <bpmn2:participant id="Participant_0537iz2" name="Delivery Boy" />
+    <bpmn 2:participant id="Participant_0537 iz 2" name="Delivery Boy" />
+    

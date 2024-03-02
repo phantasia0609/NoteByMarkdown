@@ -2,31 +2,31 @@
 
 1.git init
 
-#初始化本地仓库
+### 初始化本地仓库
 
 2.git remote add origin 你的仓库地址
 
-#关联本地仓库到远程仓库
+### 关联本地仓库到远程仓库
 
 3. git add *
 
-#添加要提交的文件到暂存区
+### 添加要提交的文件到暂存区
 
 4.git commit -m "init commint"
 
-#提交代码到文件控制仓库
+### 提交代码到文件控制仓库
 
 5.git fetch origin
 
-#将远程主机的更新，全部取回本地
+### 将远程主机的更新，全部取回本地
 
 6.git pull origin master    如果报错用这个 git pull origin master --allow-unrelated-histories
 
-#拉取远程分支代码到本地
+### 拉取远程分支代码到本地
 
 7.git push -u origin master:master
 
-#提交本地分支(master)代码到远程分支(master)
+### 提交本地分支(master)代码到远程分支(master)
 
   
 ### 克隆指定分支
