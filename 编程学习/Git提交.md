@@ -27,10 +27,13 @@
 7.git push -u origin master:master
 
 ### 提交本地分支(master)代码到远程分支(master)
+<<<<<<< HEAD
 
 
 - [x] 如果远程是空仓库,在 commit 后可以使用 git push -u origin "master" ✅ 2024-02-24
 
+=======
+>>>>>>> origin/master
 
 ### 克隆指定分支
 ![image.png](https://iili.io/JGotIbj.png)

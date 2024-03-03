@@ -27,7 +27,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": "conflict-files-obsidian-git.md",
                 "staged": false
               }
             }
@@ -206,8 +206,8 @@
   },
   "active": "1b152ea6fda3b9a1",
   "lastOpenFiles": [
-    "编程学习/Blog/Hexo 全记录.md",
     "conflict-files-obsidian-git.md",
+    "编程学习/Blog/Hexo 全记录.md",
     "test.md",
     "编程学习/Blog",
     "未命名.md",
