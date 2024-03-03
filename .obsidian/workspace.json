@@ -20,8 +20,20 @@
               }
             },
             "group": "887b399e64e00047"
+          },
+          {
+            "id": "1b152ea6fda3b9a1",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d1515e5adbd9c988",
@@ -105,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,14 +172,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "52ca3e04973aa625",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,14 +204,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "181f1592751591ee",
+  "active": "1b152ea6fda3b9a1",
   "lastOpenFiles": [
+    "编程学习/Blog/Hexo 全记录.md",
+    "conflict-files-obsidian-git.md",
+    "test.md",
+    "编程学习/Blog",
+    "未命名.md",
     "编程学习/Git提交.md",
     "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
     "编程学习/React/Notes/6.组件通信.md",
     "编程学习/React/Notes/10.Redux环境.md",
     "编程学习/React/Notes/9.Redux入门.md",
-    "test.md",
     "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
     "编程学习/Algorithm/Fun/一些无意义刷题/Fib.md",
     "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
@@ -216,10 +235,7 @@
     "编程学习/Algorithm/栈-优先队列-map-set-bitset/2.优先队列.md",
     "编程学习/Coding/c++/priority_queue初始化.md",
     "编程学习/Algorithm/栈-优先队列-map-set-bitset/1.栈.md",
-    "编程学习/Coding/c++/Unique.md",
     "编程学习/Algorithm/栈-优先队列-map-set-bitset",
-    "编程学习/Coding/c++/Vector.md",
-    "编程学习/Algorithm/位运算双指针排序二分/3.双指针【模板】.md",
     "编程学习/Algorithm/位运算双指针排序二分",
     "编程学习/Algorithm/前缀和与拆分",
     "编程学习/Algorithm/Fun",
@@ -236,7 +252,6 @@
     "编程学习/SQL 1/图片/Pasted image 20231016130445.png",
     "hit/数据结构/图片/Pasted image 20231018005842.png",
     "hit/数据结构/图片/Pasted image 20231018004022.png",
-    "公式.md.nssyncsc",
-    "毛概/演讲分工.md.nssyncsc"
+    "公式.md.nssyncsc"
   ]
 }
