@@ -4,7 +4,7 @@
 
 #初始化本地仓库
 
-2.git remote add origin 你的仓库地址
+2.git remote add origin 你的仓库地址 （git remote remove origin）
 
 #关联本地仓库到远程仓库
 
@@ -28,7 +28,10 @@
 
 #提交本地分支(master)代码到远程分支(master)
 
-  
+
+- [x] 如果远程是空仓库,在 commit 后可以使用 git push -u origin "master" ✅ 2024-02-24
+
+
 ### 克隆指定分支
 ![image.png](https://iili.io/JGotIbj.png)
 
