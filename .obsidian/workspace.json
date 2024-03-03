@@ -14,25 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "887b399e64e00047"
-          },
-          {
-            "id": "582a12fbe118fe77",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d1515e5adbd9c988",
@@ -45,7 +34,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程学习/Git提交.md"
+                "file": "test.md"
               }
             },
             "group": "887b399e64e00047"
@@ -116,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程学习/Git提交.md"
+                "file": "test.md"
               }
             }
           },
@@ -200,8 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "582a12fbe118fe77",
+  "active": "181f1592751591ee",
   "lastOpenFiles": [
+    "编程学习/Git提交.md",
+    "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
     "编程学习/React/Notes/6.组件通信.md",
     "编程学习/React/Notes/10.Redux环境.md",
     "编程学习/React/Notes/9.Redux入门.md",
@@ -212,7 +203,6 @@
     "编程学习/Algorithm/Fun/一些无意义刷题",
     "编程学习/Algorithm/Fun/未命名.md",
     "编程学习/Coding/c++/bitset.md",
-    "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
     "编程学习/Coding/c++/未命名",
     "编程学习/Algorithm/位运算双指针排序二分/4.二分【模板】.md",
     "编程学习/Algorithm/位运算双指针排序二分/2.排序【模板】.md",
@@ -230,7 +220,6 @@
     "编程学习/Algorithm/栈-优先队列-map-set-bitset",
     "编程学习/Coding/c++/Vector.md",
     "编程学习/Algorithm/位运算双指针排序二分/3.双指针【模板】.md",
-    "编程学习/Algorithm/位运算双指针排序二分/异或结合律.md",
     "编程学习/Algorithm/位运算双指针排序二分",
     "编程学习/Algorithm/前缀和与拆分",
     "编程学习/Algorithm/Fun",
