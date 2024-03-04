@@ -4,6 +4,21 @@
 ```
 npm i -g hexo-cli
 ```
+## 如果是 mac or linux 
+![image.png](https://iili.io/JMpaOTN.png)
+```
+echo 'PATH="$PATH:./node_modules/.bin"' >> ~/.profile
+```
+## 如果是 windows 
+> 执行 hexo 命令时应当添加前缀
+
+```
+npx hexo -v
+npx hexo cl
+npx hexo init
+npx hexo g
+npx hexo s
+```
 
 ## 验证安装
 ```

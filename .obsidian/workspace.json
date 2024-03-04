@@ -25,10 +25,11 @@
             "id": "1b152ea6fda3b9a1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "编程学习/Blog/Hexo 全记录.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程学习/Blog/Hexo 全记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程学习/Blog/Hexo 全记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程学习/Blog/Hexo 全记录.md"
+              }
             }
           },
           {
@@ -206,12 +211,12 @@
   },
   "active": "1b152ea6fda3b9a1",
   "lastOpenFiles": [
+    "编程学习/Git提交.md",
     "conflict-files-obsidian-git.md",
     "编程学习/Blog/Hexo 全记录.md",
     "test.md",
     "编程学习/Blog",
     "未命名.md",
-    "编程学习/Git提交.md",
     "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
     "编程学习/React/Notes/6.组件通信.md",
     "编程学习/React/Notes/10.Redux环境.md",

@@ -30,7 +30,7 @@
 <<<<<<< HEAD
 
 
-- [x] 如果远程是空仓库,在 commit 后可以使用 git push -u origin "master" ✅ 2024-02-24
+- [x] 如果远程是空仓库,在 commit 后可以使用 git push -u origin "master" ✅ 2024-03-03
 
 =======
 >>>>>>> origin/master
