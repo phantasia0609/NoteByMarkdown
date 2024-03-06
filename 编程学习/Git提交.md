@@ -7,7 +7,7 @@ git init
 ### 初始化本地仓库
 
 ```
-git remote add origin 你的仓库地址 （git remote remove origin）
+git remote add origin '你的仓库地址' (git remote remove origin)
 ```
 
 ### 关联本地仓库到远程仓库
