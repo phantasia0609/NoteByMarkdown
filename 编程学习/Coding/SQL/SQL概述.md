@@ -2,13 +2,13 @@
 ![[Pasted image 20231016104140.png]
 
 ### 数据库一些对象的定义
-![[编程学习/SQL/图片/Pasted image 20231016105521.png]]
+![[Pasted image 20231016105521.png]]
 
 ### 数据库的一些约束
-![[编程学习/SQL/图片/Pasted image 20231016111602.png]]
+![[Pasted image 20231016111602.png]]
 
 ### 修改基本表的操作
-![[编程学习/SQL/图片/Pasted image 20231016130505.png]]
+![[Pasted image 20231016130505.png]]
 ### 增加属性列
 
 >像S表中增加类型为DATE的名为S_entrance数据
@@ -32,6 +32,6 @@
 >ALTER TABLES S DROP CONSTRAINT S sname
 
 ### 删除基本表
-![[编程学习/SQL/图片/Pasted image 20231016131951.png]]
+![[Pasted image 20231016131951.png]]
 ### 索引的定义
-![[编程学习/SQL/图片/Pasted image 20231016132220.png]]
+![[Pasted image 20231016132220.png]]
