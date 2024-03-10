@@ -5,5 +5,6 @@
   "baseFontSize": 16,
   "textFontFamily": "Monaco,苹方-简,苹方-港,Fira Code Retina,Consolas",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Monaco,Fira Code"
+  "monospaceFontFamily": "Monaco,Fira Code",
+  "translucency": false
 }
