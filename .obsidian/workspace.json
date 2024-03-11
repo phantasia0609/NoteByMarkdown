@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "hit/Mathematics/微积分/常用级数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "hit/Mathematics/微积分/常用级数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程学习/Git提交.md",
+                "file": "hit/Mathematics/微积分/常用级数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程学习/Git提交.md"
+                "file": "hit/Mathematics/微积分/常用级数.md"
               }
             }
           },
@@ -176,13 +176,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc44fd6981e2cbc2",
+  "active": "d70a10dee4b1691c",
   "lastOpenFiles": [
+    "编程学习/alias 命令.md",
+    "hit/Mathematics/微积分/常用级数.md",
+    "hit/Mathematics/微积分",
+    "hit/Mathematics/未命名.md",
+    "hit/Mathematics",
+    "hit/Mathmatic.md",
+    "编程学习/Git提交.md",
     "hit/软件构造/SoftWare Test.md",
     "hit/毛概/演讲分工.md",
     "conflict-files-obsidian-git.md",
     "test.md",
-    "编程学习/Git提交.md",
     "hit/近世代数/作业1 习题.md",
     "hit/软件构造",
     "未命名.md",
@@ -206,14 +212,8 @@
     "扣分.md",
     "编程学习/Coding/React/Notes/6.组件通信.md",
     "编程学习/Coding/React/Notes/10.Redux环境.md",
-    "编程学习/Coding/React/Notes/9.Redux入门.md",
-    "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
-    "编程学习/Algorithm/Fun/一些无意义刷题/Fib.md",
-    "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
     "编程学习/Algorithm/Fun/一些无意义刷题",
     "编程学习/Coding/c++/未命名",
-    "编程学习/Algorithm/栈-优先队列-map-set-bitset",
-    "编程学习/Algorithm/位运算双指针排序二分",
     "未命名.canvas",
     "编程学习/SQL 1/图片/Pasted image 20231016130505.png",
     "编程学习/SQL 1/图片/Pasted image 20231016105521.png",
