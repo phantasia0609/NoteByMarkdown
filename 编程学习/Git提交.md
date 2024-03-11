@@ -113,5 +113,6 @@ git stauts 查看一下当前版本库中文件状态
 
 执行完git reset --hard 命令后，使用git status 查看文件状态，回滚到add label 提交，add button被修改的文件内容已经没有了，丢失了。版本库中的文件已经完全回到刚提交完add label时的状态。
 
-git reset 根据需要使用不同的命令，使用 --hard时一定考虑回滚后文件的丢失！
+git reset 根据需要使用不同的命令，使用 --hard 时一定考虑回滚后文件的丢失！
+
 
