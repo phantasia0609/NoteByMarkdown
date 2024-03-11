@@ -8,78 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b152ea6fda3b9a1",
+            "id": "d70a10dee4b1691c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "编程学习/Git提交.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "582a12fbe118fe77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-=======
-                "file": "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
->>>>>>> origin/master
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "050a640921326bf4",
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d674c13e1779be91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d70a10dee4b1691c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
-                "staged": true
-              }
-            }
           }
-        ],
-        "currentTab": 4
-=======
-              "type": "diff-view",
-              "state": {
-                "file": "111.md",
-                "staged": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
->>>>>>> origin/master
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -108,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,11 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
+                "file": "编程学习/Git提交.md",
                 "collapseAll": true,
-=======
-                "collapseAll": false,
->>>>>>> origin/master
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -165,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程学习/Git提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程学习/Git提交.md"
+              }
             }
           },
           {
@@ -206,11 +146,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "fc44fd6981e2cbc2",
-=======
-            "id": "52ca3e04973aa625",
->>>>>>> origin/master
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -222,11 +158,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 438.5
-=======
-    "width": 300
->>>>>>> origin/master
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,18 +168,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:开始漫游笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false
     }
   },
-<<<<<<< HEAD
   "active": "d70a10dee4b1691c",
   "lastOpenFiles": [
+    "hit/软件构造/SoftWare Test.md",
+    "hit/毛概/演讲分工.md",
     "conflict-files-obsidian-git.md",
+    "test.md",
+    "编程学习/Git提交.md",
+    "hit/近世代数/作业1 习题.md",
+    "hit/软件构造",
+    "未命名.md",
+    "Arc存档.md",
     "Excalidraw/Drawing 2024-03-10 18.48.10.excalidraw.md",
     "Excalidraw",
     "编程学习/Coding/c++/重载比较操作符.md",
@@ -259,62 +198,22 @@
     "编程学习/Coding/Java/Pintu/Java图形化操作介绍.md",
     "编程学习/Coding/Java/未命名.md",
     "编程学习/Coding/Java/Pintu",
-    "编程学习/Git提交.md",
     "编程学习/Coding/Java",
     "编程学习/Blog/Hexo 全记录.md",
     "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
     "hit/数据结构/查找/散列查找（下）.md",
     "编程学习/Blog",
-    "未命名.md",
-=======
-  "active": "52ca3e04973aa625",
-  "lastOpenFiles": [
->>>>>>> origin/master
-    "test.md",
-    "111.md",
     "扣分.md",
-<<<<<<< HEAD
-    "Arc存档.md",
     "编程学习/Coding/React/Notes/6.组件通信.md",
     "编程学习/Coding/React/Notes/10.Redux环境.md",
     "编程学习/Coding/React/Notes/9.Redux入门.md",
     "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
     "编程学习/Algorithm/Fun/一些无意义刷题/Fib.md",
-=======
-    "未命名.md",
-    "编程学习/Algorithm/栈-优先队列-map-set-bitset/4.set.md",
->>>>>>> origin/master
     "编程学习/Algorithm/位运算双指针排序二分/1.位运算.md",
-    "编程学习/Algorithm/前缀和与拆分/5.鼠鼠我鸭.md",
-    "编程学习/Algorithm/前缀和与拆分/1.Prefix前缀和【模板】.md",
-    "编程学习/Coding/c++/重载操作符.md",
-    "编程学习/Algorithm/单调栈和单调队列/2.滑动窗口【单调队列】.md",
-    "编程学习/Algorithm/位运算双指针排序二分/2.排序【模板】.md",
-    "编程学习/Algorithm/位运算双指针排序二分/3.双指针【模板】.md",
-    "编程学习/Coding/c++/重载比较操作符.md",
-    "编程学习/Coding/c++/条件运算符.md",
-    "编程学习/Coding/c++/Multiset.md",
-    "编程学习/Coding/c++/Auto关键字.md",
-    "编程学习/Coding/c++/priority_queue初始化.md",
-    "编程学习/Coding/c++/Unique.md",
-    "编程学习/Coding/c++/Sort.md",
-    "编程学习/Coding/c++/bitset.md",
-    "编程学习/Algorithm/栈-优先队列-map-set-bitset/5.bitset.md",
-<<<<<<< HEAD
-=======
-    "编程学习/Algorithm/test.md",
-    "编程学习/Algorithm/单调栈和单调队列/1.单调栈【模板】.md",
-    "编程学习/Algorithm/位运算双指针排序二分/4.二分【模板】.md",
-    "编程学习/Algorithm/前缀和与拆分/4.Two-dimensin Diff二维差分【模板】.md",
-    "编程学习/Algorithm/前缀和与拆分/5.鼠鼠我鸭（贪心）.md",
-    "编程学习/Algorithm/单调栈和单调队列",
-    "编程学习/Blog",
     "编程学习/Algorithm/Fun/一些无意义刷题",
->>>>>>> origin/master
     "编程学习/Coding/c++/未命名",
     "编程学习/Algorithm/栈-优先队列-map-set-bitset",
     "编程学习/Algorithm/位运算双指针排序二分",
-    "编程学习/Algorithm/前缀和与拆分",
     "未命名.canvas",
     "编程学习/SQL 1/图片/Pasted image 20231016130505.png",
     "编程学习/SQL 1/图片/Pasted image 20231016105521.png",
