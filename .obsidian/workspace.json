@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hit/Mathematics/微积分/常用级数.md",
+                "file": "编程学习/Coding/React/Extra/$符号在JS中的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hit/Mathematics/微积分/常用级数.md",
+                "file": "编程学习/Coding/React/Extra/$符号在JS中的使用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hit/Mathematics/微积分/常用级数.md",
+                "file": "编程学习/Coding/React/Extra/$符号在JS中的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hit/Mathematics/微积分/常用级数.md"
+                "file": "编程学习/Coding/React/Extra/$符号在JS中的使用.md"
               }
             }
           },
@@ -172,14 +172,18 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "d70a10dee4b1691c",
   "lastOpenFiles": [
-    "编程学习/alias 命令.md",
+    "Excalidraw/Architecture.excalidraw.md",
+    "Excalidraw/Architecture.excalidraw",
+    "Excalidraw/Drawing 2024-03-10 18.48.10.excalidraw.md",
+    "编程学习/mac 终端 zsh 和 bash 切换.md",
     "hit/Mathematics/微积分/常用级数.md",
+    "编程学习/alias 命令.md",
     "hit/Mathematics/微积分",
     "hit/Mathematics/未命名.md",
     "hit/Mathematics",
@@ -193,7 +197,6 @@
     "hit/软件构造",
     "未命名.md",
     "Arc存档.md",
-    "Excalidraw/Drawing 2024-03-10 18.48.10.excalidraw.md",
     "Excalidraw",
     "编程学习/Coding/c++/重载比较操作符.md",
     "编程学习/Coding/c++/Multiset.md",
@@ -209,11 +212,7 @@
     "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
     "hit/数据结构/查找/散列查找（下）.md",
     "编程学习/Blog",
-    "扣分.md",
-    "编程学习/Coding/React/Notes/6.组件通信.md",
-    "编程学习/Coding/React/Notes/10.Redux环境.md",
     "编程学习/Algorithm/Fun/一些无意义刷题",
-    "编程学习/Coding/c++/未命名",
     "未命名.canvas",
     "编程学习/SQL 1/图片/Pasted image 20231016130505.png",
     "编程学习/SQL 1/图片/Pasted image 20231016105521.png",
