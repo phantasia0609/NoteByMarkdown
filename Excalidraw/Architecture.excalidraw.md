@@ -77,7 +77,7 @@ Docker ^44w132QL
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -111,7 +111,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -142,12 +145,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Main FrontEnd",
+			"rawText": "Main FrontEnd",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "5Evp3yO7t29GqMDyXwZzW",
 			"originalText": "Main FrontEnd",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -181,7 +185,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -212,12 +219,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Embed Frame",
+			"rawText": "Embed Frame",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "1-FphC_ukDtZDYg01MRvl",
 			"originalText": "Embed Frame",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -251,7 +259,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -282,12 +293,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Main Service",
+			"rawText": "Main Service",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "KiYViezsc-NnunfT0I6Q4",
 			"originalText": "Main Service",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -321,12 +333,15 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 156,
-			"versionNonce": 1542805850,
+			"version": 158,
+			"versionNonce": 907146878,
 			"isDeleted": false,
 			"id": "QnQhADaL",
 			"fillStyle": "solid",
@@ -335,29 +350,30 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1322.3700408935547,
+			"x": 1327.3700408935547,
 			"y": 431.04763357979914,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9775fa",
-			"width": 103.25991821289062,
+			"width": 93.25991821289062,
 			"height": 75,
 			"seed": 835180459,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368693,
+			"updated": 1710345876464,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Chaincode \nGenerate \nService",
+			"text": "Chaincode\nGenerate\nService",
+			"rawText": "Chaincode Generate Service",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "p0pvaKw3ikiyRE82kClhF",
 			"originalText": "Chaincode Generate Service",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "rectangle",
@@ -391,7 +407,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -422,12 +441,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Database",
+			"rawText": "Database",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "WzJV9F4755OpUmBAFyEsQ",
 			"originalText": "Database",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -461,7 +481,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368693,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -492,12 +515,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Agent1",
+			"rawText": "Agent1",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "y9DXoUcQTftMEFMuBAaOF",
 			"originalText": "Agent1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -588,8 +612,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "rectangle",
-			"version": 583,
-			"versionNonce": 819518554,
+			"version": 584,
+			"versionNonce": 667580094,
 			"isDeleted": false,
 			"id": "69esFcC99ofdVxan1ZhfZ",
 			"fillStyle": "solid",
@@ -598,7 +622,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1081.5093044704865,
+			"x": 1081.5093044704868,
 			"y": 704.0833163791235,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -616,14 +640,17 @@ Docker ^44w132QL
 					"id": "dY0mQLDJ"
 				}
 			],
-			"updated": 1710223368693,
+			"updated": 1710345876464,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 882,
-			"versionNonce": 183840326,
+			"version": 883,
+			"versionNonce": 118025982,
 			"isDeleted": false,
 			"id": "dY0mQLDJ",
 			"fillStyle": "solid",
@@ -632,7 +659,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1138.3678707546662,
+			"x": 1138.3678707546665,
 			"y": 725.7444773797649,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -643,12 +670,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368693,
+			"updated": 1710345876464,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.763309813983328,
 			"fontFamily": 1,
 			"text": "Fabric Resource A",
+			"rawText": "Fabric Resource A",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "69esFcC99ofdVxan1ZhfZ",
@@ -685,12 +713,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "系统分为交互层、业务逻辑层与物理资源层三个部分。",
+			"rawText": "系统分为交互层、业务逻辑层与物理资源层三个部分。",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "系统分为交互层、业务逻辑层与物理资源层三个部分。",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -721,12 +750,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "交互层包括系统资源管理部分，以及BPMN嵌入页面。\n资源管理部分负责平台用户的注册、系统、联盟、环境以及物理资源的创建；\nBPMN嵌入页面为一个单独服务，通过iframe嵌入主要前端，负责BPMN的\n绘制与执行管理。",
+			"rawText": "交互层包括系统资源管理部分，以及BPMN嵌入页面。\n资源管理部分负责平台用户的注册、系统、联盟、环境以及物理资源的创建；\nBPMN嵌入页面为一个单独服务，通过iframe嵌入主要前端，负责BPMN的\n绘制与执行管理。",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "交互层包括系统资源管理部分，以及BPMN嵌入页面。\n资源管理部分负责平台用户的注册、系统、联盟、环境以及物理资源的创建；\nBPMN嵌入页面为一个单独服务，通过iframe嵌入主要前端，负责BPMN的\n绘制与执行管理。",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -757,12 +787,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "业务逻辑层分为两个部分，主服务与链码生成服务。主服务负责整个系统的\n身份注册、物理资源构建与管理；链码生成服务则仅提供BPMN转换为链码\n的功能。\n\n（将BPMN相关逻辑从主系统隔离出来能够包装主系统功能的自洽性。）",
+			"rawText": "业务逻辑层分为两个部分，主服务与链码生成服务。主服务负责整个系统的\n身份注册、物理资源构建与管理；链码生成服务则仅提供BPMN转换为链码\n的功能。\n\n（将BPMN相关逻辑从主系统隔离出来能够包装主系统功能的自洽性。）",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "业务逻辑层分为两个部分，主服务与链码生成服务。主服务负责整个系统的\n身份注册、物理资源构建与管理；链码生成服务则仅提供BPMN转换为链码\n的功能。\n\n（将BPMN相关逻辑从主系统隔离出来能够包装主系统功能的自洽性。）",
 			"lineHeight": 1.25,
-			"baseline": 117
+			"baseline": 118
 		},
 		{
 			"type": "text",
@@ -793,17 +824,18 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "物理层包括部署在物理机节点上的Agent，以及在物理机节点上生成的\nFabric Resource。",
+			"rawText": "物理层包括部署在物理机节点上的Agent，以及在物理机节点上生成的\nFabric Resource。",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "物理层包括部署在物理机节点上的Agent，以及在物理机节点上生成的\nFabric Resource。",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "text",
-			"version": 1134,
-			"versionNonce": 366101146,
+			"version": 1135,
+			"versionNonce": 673967038,
 			"isDeleted": false,
 			"id": "F89sVzX1",
 			"fillStyle": "solid",
@@ -825,18 +857,19 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368694,
+			"updated": 1710345887644,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.38039324169913,
 			"fontFamily": 1,
 			"text": "React",
+			"rawText": "React",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "React",
 			"lineHeight": 1.25,
-			"baseline": 11
+			"baseline": 10
 		},
 		{
 			"type": "rectangle",
@@ -902,8 +935,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 1784,
-			"versionNonce": 21027654,
+			"version": 1785,
+			"versionNonce": 833107746,
 			"isDeleted": false,
 			"id": "7atu3VPj",
 			"fillStyle": "solid",
@@ -927,18 +960,19 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368694,
+			"updated": 1710345887644,
 			"link": null,
 			"locked": false,
 			"fontSize": 12.38039324169913,
 			"fontFamily": 1,
 			"text": "React",
+			"rawText": "React",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "React",
 			"lineHeight": 1.25,
-			"baseline": 11
+			"baseline": 10
 		},
 		{
 			"type": "ellipse",
@@ -1507,8 +1541,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 852,
-			"versionNonce": 2109757146,
+			"version": 853,
+			"versionNonce": 1165214718,
 			"isDeleted": false,
 			"id": "QV2lAPTU",
 			"fillStyle": "solid",
@@ -1521,7 +1555,7 @@ Docker ^44w132QL
 			"y": 716.1375342470571,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
-			"width": 22.69656460158256,
+			"width": 22.67095947265625,
 			"height": 8.599759258335327,
 			"seed": 2073454091,
 			"groupIds": [
@@ -1530,12 +1564,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368694,
+			"updated": 1710345887644,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.879807406668261,
 			"fontFamily": 1,
 			"text": "Docker",
+			"rawText": "Docker",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -1545,8 +1580,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "rectangle",
-			"version": 627,
-			"versionNonce": 2117639110,
+			"version": 628,
+			"versionNonce": 542007102,
 			"isDeleted": false,
 			"id": "Nt4_9iKViKcCRNMEwbi_m",
 			"fillStyle": "solid",
@@ -1555,7 +1590,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 594.7060092512262,
+			"x": 594.7060092512261,
 			"y": 928.5488610749642,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9775fa",
@@ -1573,14 +1608,17 @@ Docker ^44w132QL
 					"id": "ZwPPkkm3"
 				}
 			],
-			"updated": 1710223368694,
+			"updated": 1710345876465,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 523,
-			"versionNonce": 335834010,
+			"version": 524,
+			"versionNonce": 133941118,
 			"isDeleted": false,
 			"id": "ZwPPkkm3",
 			"fillStyle": "solid",
@@ -1589,7 +1627,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 783.8510364118707,
+			"x": 783.8510364118706,
 			"y": 969.5488610749642,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#9775fa",
@@ -1600,18 +1638,19 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368694,
+			"updated": 1710345876465,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Agent2",
+			"rawText": "Agent2",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "Nt4_9iKViKcCRNMEwbi_m",
 			"originalText": "Agent2",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1674,7 +1713,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368694,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -1705,6 +1747,7 @@ Docker ^44w132QL
 			"fontSize": 10.714432471593506,
 			"fontFamily": 1,
 			"text": "Fabric Resource",
+			"rawText": "Fabric Resource",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "-cOheunfTzCvA87hv01qw",
@@ -2155,8 +2198,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 638,
-			"versionNonce": 974548570,
+			"version": 639,
+			"versionNonce": 1335427810,
 			"isDeleted": false,
 			"id": "ndmX1AUo",
 			"fillStyle": "solid",
@@ -2169,7 +2212,7 @@ Docker ^44w132QL
 			"y": 931.9334945238481,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
-			"width": 22.593497071401174,
+			"width": 22.568008218107096,
 			"height": 8.560706830689547,
 			"seed": 1975575642,
 			"groupIds": [
@@ -2178,12 +2221,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368695,
+			"updated": 1710345887645,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.848565464551637,
 			"fontFamily": 1,
 			"text": "Docker",
+			"rawText": "Docker",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -2223,7 +2267,10 @@ Docker ^44w132QL
 			],
 			"updated": 1710223368695,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -2254,12 +2301,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Agent3",
+			"rawText": "Agent3",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "SrayftDK8niXhqbqGFlb8",
 			"originalText": "Agent3",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -2292,8 +2340,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "rectangle",
-			"version": 435,
-			"versionNonce": 1656627162,
+			"version": 436,
+			"versionNonce": 508700606,
 			"isDeleted": false,
 			"id": "6TsOboWBjUmtkuPzBy_Ye",
 			"fillStyle": "solid",
@@ -2302,8 +2350,8 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1097.2760015977335,
-			"y": 1131.574292377685,
+			"x": 1097.2760015977337,
+			"y": 1131.5742923776847,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
 			"width": 186.89285714285717,
@@ -2320,14 +2368,17 @@ Docker ^44w132QL
 					"id": "wmdUt7tv"
 				}
 			],
-			"updated": 1710223368695,
+			"updated": 1710345876465,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 497,
-			"versionNonce": 1201136326,
+			"version": 499,
+			"versionNonce": 1801310270,
 			"isDeleted": false,
 			"id": "wmdUt7tv",
 			"fillStyle": "solid",
@@ -2336,29 +2387,30 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1153.4701108332247,
-			"y": 1150.8749658863444,
+			"x": 1153.4839848651213,
+			"y": 1150.8749658863442,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
-			"width": 74.504638671875,
-			"height": 11.987995968111424,
+			"width": 74.47689060808216,
+			"height": 11.987995968111425,
 			"seed": 1367599578,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368695,
+			"updated": 1710345876465,
 			"link": null,
 			"locked": false,
 			"fontSize": 9.59039677448914,
 			"fontFamily": 1,
 			"text": "Fabric Resource",
+			"rawText": "Fabric Resource",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "6TsOboWBjUmtkuPzBy_Ye",
 			"originalText": "Fabric Resource",
 			"lineHeight": 1.25,
-			"baseline": 9
+			"baseline": 8
 		},
 		{
 			"type": "ellipse",
@@ -2803,8 +2855,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 704,
-			"versionNonce": 656221658,
+			"version": 705,
+			"versionNonce": 1419154494,
 			"isDeleted": false,
 			"id": "ec6uHiYR",
 			"fillStyle": "solid",
@@ -2817,8 +2869,8 @@ Docker ^44w132QL
 			"y": 1142.3149227374495,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
-			"width": 20.22324579602953,
-			"height": 7.6626153922814115,
+			"width": 20.200430941666966,
+			"height": 7.662615392281413,
 			"seed": 813181210,
 			"groupIds": [
 				"wdoi8yGfkVF7jR34zaXdR"
@@ -2826,23 +2878,24 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368695,
+			"updated": 1710345887645,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.13009231382513,
 			"fontFamily": 1,
 			"text": "Docker",
+			"rawText": "Docker",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Docker",
 			"lineHeight": 1.25,
-			"baseline": 4.999999999999999
+			"baseline": 4
 		},
 		{
 			"type": "rectangle",
-			"version": 663,
-			"versionNonce": 1552424262,
+			"version": 664,
+			"versionNonce": 32839806,
 			"isDeleted": false,
 			"id": "q3RC9hZP_TRbDioaYkxCl",
 			"fillStyle": "solid",
@@ -2851,7 +2904,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1302.8216365183682,
+			"x": 1302.8216365183685,
 			"y": 701.7547481235435,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -2869,14 +2922,17 @@ Docker ^44w132QL
 					"id": "1rYVswOH"
 				}
 			],
-			"updated": 1710223368695,
+			"updated": 1710345876465,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 966,
-			"versionNonce": 629654042,
+			"version": 967,
+			"versionNonce": 251222206,
 			"isDeleted": false,
 			"id": "1rYVswOH",
 			"fillStyle": "solid",
@@ -2885,7 +2941,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1359.2982219065518,
+			"x": 1359.298221906552,
 			"y": 723.415909124185,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -2896,12 +2952,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368695,
+			"updated": 1710345876465,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.763309813983328,
 			"fontFamily": 1,
 			"text": "Fabric Resource B",
+			"rawText": "Fabric Resource B",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "q3RC9hZP_TRbDioaYkxCl",
@@ -3352,8 +3409,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 931,
-			"versionNonce": 239204166,
+			"version": 932,
+			"versionNonce": 1425692322,
 			"isDeleted": false,
 			"id": "7jnRA2ek",
 			"fillStyle": "solid",
@@ -3366,7 +3423,7 @@ Docker ^44w132QL
 			"y": 714.5497123836212,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
-			"width": 22.69656460158256,
+			"width": 22.67095947265625,
 			"height": 8.599759258335327,
 			"seed": 360850586,
 			"groupIds": [
@@ -3375,12 +3432,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368695,
+			"updated": 1710345887645,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.879807406668261,
 			"fontFamily": 1,
 			"text": "Docker",
+			"rawText": "Docker",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -3390,8 +3448,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "rectangle",
-			"version": 751,
-			"versionNonce": 1752205338,
+			"version": 752,
+			"versionNonce": 705401086,
 			"isDeleted": false,
 			"id": "-vBGjQeAMSoDmOVPmX2vt",
 			"fillStyle": "solid",
@@ -3400,7 +3458,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1085.9605571600507,
+			"x": 1085.960557160051,
 			"y": 773.9770292579774,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -3418,14 +3476,17 @@ Docker ^44w132QL
 					"id": "mBLMMyyu"
 				}
 			],
-			"updated": 1710223368696,
+			"updated": 1710345876465,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 1056,
-			"versionNonce": 2060394118,
+			"version": 1057,
+			"versionNonce": 1319944510,
 			"isDeleted": false,
 			"id": "mBLMMyyu",
 			"fillStyle": "solid",
@@ -3434,7 +3495,7 @@ Docker ^44w132QL
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1142.8836833807538,
+			"x": 1142.883683380754,
 			"y": 795.6381902586188,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
@@ -3445,12 +3506,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368696,
+			"updated": 1710345876465,
 			"link": null,
 			"locked": false,
 			"fontSize": 10.763309813983328,
 			"fontFamily": 1,
 			"text": "Fabric Resource C",
+			"rawText": "Fabric Resource C",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "-vBGjQeAMSoDmOVPmX2vt",
@@ -3901,8 +3963,8 @@ Docker ^44w132QL
 		},
 		{
 			"type": "text",
-			"version": 1018,
-			"versionNonce": 1102269978,
+			"version": 1019,
+			"versionNonce": 1333091454,
 			"isDeleted": false,
 			"id": "44w132QL",
 			"fillStyle": "solid",
@@ -3915,7 +3977,7 @@ Docker ^44w132QL
 			"y": 786.7719515600535,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fa5252",
-			"width": 22.69656460158256,
+			"width": 22.67095947265625,
 			"height": 8.599759258335327,
 			"seed": 1531361498,
 			"groupIds": [
@@ -3924,12 +3986,13 @@ Docker ^44w132QL
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710223368696,
+			"updated": 1710345887645,
 			"link": null,
 			"locked": false,
 			"fontSize": 6.879807406668261,
 			"fontFamily": 1,
 			"text": "Docker",
+			"rawText": "Docker",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -3938,76 +4001,78 @@ Docker ^44w132QL
 			"baseline": 5
 		},
 		{
-			"id": "J4oHJzpt",
 			"type": "text",
-			"x": 1385.4744142961458,
-			"y": 800.1429947121346,
-			"width": 16.439987182617188,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 259610054,
 			"version": 341,
 			"versionNonce": 622230234,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1710223368696,
-			"link": null,
-			"locked": false,
-			"text": "...",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "...",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "wOhSgFk5",
-			"type": "text",
-			"x": 333.72841161447417,
-			"y": 466.9486083964105,
-			"width": 94.05992126464844,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"id": "J4oHJzpt",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1385.4744142961458,
+			"y": 800.1429947121346,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 16.439987182617188,
+			"height": 25,
+			"seed": 259610054,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1784804614,
-			"version": 106,
-			"versionNonce": 969324486,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1710223368696,
 			"link": null,
 			"locked": false,
-			"text": "/peer/xxx",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "...",
+			"rawText": "...",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
+			"containerId": null,
+			"originalText": "...",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 106,
+			"versionNonce": 969324486,
+			"isDeleted": false,
+			"id": "wOhSgFk5",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 333.72841161447417,
+			"y": 466.9486083964105,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 94.05992126464844,
+			"height": 25,
+			"seed": 1784804614,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710223368696,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "/peer/xxx",
+			"rawText": "/peer/xxx",
+			"textAlign": "left",
+			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "/peer/xxx",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -4038,12 +4103,13 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "/peer/xxx",
+			"rawText": "/peer/xxx",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "/peer/xxx",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -4074,36 +4140,37 @@ Docker ^44w132QL
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "/docker/container1",
+			"rawText": "/docker/container1",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "/docker/container1",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
-			"id": "UxoRfvQ-5kIDxnuEAvgUs",
 			"type": "freedraw",
-			"x": 299.44269732875995,
-			"y": 477.42476980824085,
-			"width": 30.47616141183039,
-			"height": 0.9523664202009172,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 67,
+			"versionNonce": 1516502598,
+			"isDeleted": false,
+			"id": "UxoRfvQ-5kIDxnuEAvgUs",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 299.44269732875995,
+			"y": 477.42476980824085,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 30.47616141183039,
+			"height": 0.9523664202009172,
+			"seed": 2092584986,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2092584986,
-			"version": 67,
-			"versionNonce": 1516502598,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1710223368696,
 			"link": null,
 			"locked": false,
@@ -4173,36 +4240,33 @@ Docker ^44w132QL
 					0.9523664202009172
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				30.47616141183039,
-				0.9523664202009172
-			]
+			"pressures": []
 		},
 		{
-			"id": "hOLgAqxAHODZLmlTQYDT5",
 			"type": "freedraw",
-			"x": 317.537920891818,
-			"y": 454.5676051528279,
-			"width": 4.761919294084805,
-			"height": 45.71430751255576,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 79,
+			"versionNonce": 1821798682,
+			"isDeleted": false,
+			"id": "hOLgAqxAHODZLmlTQYDT5",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 317.537920891818,
+			"y": 454.5676051528279,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 4.761919294084805,
+			"height": 45.71430751255576,
+			"seed": 1886079194,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1886079194,
-			"version": 79,
-			"versionNonce": 1821798682,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1710223368696,
 			"link": null,
 			"locked": false,
@@ -4320,36 +4384,33 @@ Docker ^44w132QL
 					45.71430751255576
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-4.761919294084805,
-				45.71430751255576
-			]
+			"pressures": []
 		},
 		{
-			"id": "3YYujK3Rppxf2Lh_XQgPb",
 			"type": "freedraw",
-			"x": 103.25220660610381,
-			"y": 516.4723597914998,
-			"width": 330.47620500837047,
-			"height": 14.285714285714278,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 110,
+			"versionNonce": 1839021530,
+			"isDeleted": false,
+			"id": "3YYujK3Rppxf2Lh_XQgPb",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 103.25220660610381,
+			"y": 516.4723597914998,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 330.47620500837047,
+			"height": 14.285714285714278,
+			"seed": 1587503322,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1587503322,
-			"version": 110,
-			"versionNonce": 1839021530,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1710223368696,
 			"link": null,
 			"locked": false,
@@ -4591,17 +4652,45 @@ Docker ^44w132QL
 					-8.571428571428612
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				330.47620500837047,
-				-8.571428571428612
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": -554.0313721336125,
+		"scrollY": -84.83584736313705,
+		"zoom": {
+			"value": 0.54000244140625
+		},
+		"currentItemRoundness": "round",
 		"gridSize": null,
-		"viewBackgroundColor": "#ffffff"
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
 	},
 	"files": {}
 }

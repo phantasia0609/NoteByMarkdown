@@ -52,6 +52,10 @@ git push -u origin "master"
 
 ### 切换分支
 ![image.png](https://iili.io/JGot05g.png)
+#### 切换分支后 merge
+![image.png](https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/20240313082638.png)
+![image.png](https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/20240313082709.png)
+
 
 ### git reset 回滚
 [git reset基本操作](https://www.jianshu.com/p/cbd5cd504f14)
