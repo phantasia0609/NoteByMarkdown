@@ -1,10 +1,14 @@
 {
-  "accentColor": "",
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "accentColor": "#ac70f5",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
   "baseFontSize": 16,
   "textFontFamily": "Monaco,苹方-简,苹方-港,Fira Code Retina,Consolas",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "Monaco,Fira Code",
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "AnuExtendTheme",
+    "yaozhuwa@CSS"
+  ]
 }

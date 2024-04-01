@@ -11,15 +11,36 @@
             "id": "d70a10dee4b1691c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f61da122ab4a76c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
+                "file": "鼓捣/anaconda安装.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "406e181ac93374a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程学习/Coding/React/Notes/6.组件通信.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,6 +52,7 @@
       {
         "id": "128c5e20cfa59035",
         "type": "tabs",
+        "dimension": 59.16179337231969,
         "children": [
           {
             "id": "8f86931c65bf4b02",
@@ -66,6 +88,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "80116d4ec3f22e10",
+        "type": "tabs",
+        "dimension": 40.838206627680314,
+        "children": [
+          {
+            "id": "87bd452c323f76da",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
+                "file": "编程学习/Coding/React/Notes/6.组件通信.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,30 +139,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
+                "file": "编程学习/Coding/React/Notes/6.组件通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e556d6fe1c4ccd29",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b24e5dc3473e78d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md"
               }
             }
           },
@@ -154,11 +170,44 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
+      },
+      {
+        "id": "5a2a679aefa39247",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e556d6fe1c4ccd29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a3ea4e37869f7bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24e5dc3473e78d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程学习/Coding/React/Notes/6.组件通信.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 379
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,50 +219,51 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d70a10dee4b1691c",
+  "active": "406e181ac93374a0",
   "lastOpenFiles": [
-    "编程学习/Algorithm/前缀和与拆分/5.鼠鼠我鸭（贪心）.md",
-    "Excalidraw/Architecture.excalidraw.md",
-    "编程学习/docker安装和常用命令.md",
-    "编程学习/Algorithm/前缀和与拆分/2.diff差分【模板】.md",
-    "编程学习/mac 终端 zsh 和 bash 切换.md",
+    "Excalidraw/Drawing 2024-03-24 13.53.52.excalidraw.md",
+    "hit/数据结构/图/图的遍历 - BFS广度优先.md",
+    "hit/数据结构/查找/查找的基本概念.md",
+    "编程学习/Coding/c++/Vector.md",
     "编程学习/Git提交.md",
-    "编程学习/Coding/React/Extra/$符号在JS中的使用.md",
-    "Excalidraw/Architecture.excalidraw",
-    "Excalidraw/Drawing 2024-03-10 18.48.10.excalidraw.md",
-    "hit/Mathematics/微积分/常用级数.md",
-    "编程学习/alias 命令.md",
-    "hit/Mathematics/微积分",
-    "hit/Mathematics/未命名.md",
-    "hit/Mathematics",
-    "hit/Mathmatic.md",
-    "hit/软件构造/SoftWare Test.md",
-    "hit/毛概/演讲分工.md",
-    "conflict-files-obsidian-git.md",
-    "test.md",
-    "hit/近世代数/作业1 习题.md",
-    "hit/软件构造",
+    "编程学习/docker安装和常用命令.md",
+    "编程学习/Blog/Hexo 全记录.md",
+    "日记/2023-11-05.md",
+    "hit/软件构造/Laboratory/Software Construction Lab1 —— by Phantasia.md",
     "未命名.md",
-    "Arc存档.md",
-    "Excalidraw",
-    "编程学习/Coding/c++/重载比较操作符.md",
-    "编程学习/Coding/c++/Multiset.md",
     "编程学习/Algorithm/单调栈和单调队列/2.滑动窗口【单调队列】.md",
+    "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
+    "编程学习/Algorithm/Fun/一些无意义刷题/Fib.md",
     "编程学习/Algorithm/单调栈和单调队列/1.单调栈【模板】.md",
+    "hit/软件构造/SoftWare Test.md",
+    "编程学习/Algorithm/test.md",
+    "Theme/公式汇总.md",
+    "Arc存档.md",
+    "扣分.md",
+    "编程学习/正则表达式.md",
+    "编程学习/alias 命令.md",
+    "鼓捣/路由器代理.md",
+    "鼓捣/anaconda安装.md",
+    "鼓捣/mac 终端 zsh 和 bash 切换.md",
+    "编程学习/Algorithm/前缀和与拆分/3.Two-dimensional prefix sum二维前缀和【模板】.md",
+    "编程学习/Coding/c++/条件运算符.md",
+    "Excalidraw/未命名.canvas",
+    "hit/软件构造/Laboratory",
+    "鼓捣",
+    "Excalidraw/Architecture.excalidraw",
+    "hit/Mathematics/微积分",
+    "hit/Mathematics",
+    "hit/软件构造",
+    "Excalidraw",
     "编程学习/Algorithm/单调栈和单调队列",
-    "111.md",
-    "编程学习/Coding/Java/Pintu/Java图形化操作介绍.md",
-    "编程学习/Coding/Java/未命名.md",
     "编程学习/Coding/Java/Pintu",
     "编程学习/Coding/Java",
-    "编程学习/Blog",
-    "编程学习/Algorithm/Fun/一些无意义刷题",
     "未命名.canvas",
     "编程学习/SQL 1/图片/Pasted image 20231016130505.png",
     "编程学习/SQL 1/图片/Pasted image 20231016105521.png",

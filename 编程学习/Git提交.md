@@ -3,50 +3,38 @@
 ```
 git init
 ```
-
 ### 初始化本地仓库
-
 ```
 git remote add origin '你的仓库地址' (git remote remove origin)
 ```
-
 ### 关联本地仓库到远程仓库
-
 ```
 git add *
 ```
-
 ### 添加要提交的文件到暂存区
-
 ```
 git commit -m "init commint"
 ```
-
 ### 提交代码到文件控制仓库
-
 ```
 git fetch origin
 ```
-
 ### 将远程主机的更新，全部取回本地
-
 ```
 git pull origin master    如果报错用这个 git pull origin master --allow-unrelated-histories
+# 如果远程仓库不为空
+git pull origin master --rebase
+
 ```
-
 ### 拉取远程分支代码到本地
-
 ```
 git push -u origin master:master
 ```
-
 ### 提交本地分支(master)代码到远程分支(master)
-
 - 如果远程是空仓库,在 commit 后可以使用 
 ```
 git push -u origin "master"
 ```
-
 ### 克隆指定分支
 ![image.png](https://iili.io/JGotIbj.png)
 

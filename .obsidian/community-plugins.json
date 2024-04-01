@@ -1,10 +1,6 @@
 [
   "obsidian-image-auto-upload-plugin",
-  "obsidian-advanced-slides",
-  "table-editor-obsidian",
   "obsidian-annotator",
-  "better-reading-mode",
-  "better-word-count",
   "calendar",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
@@ -16,5 +12,14 @@
   "mousewheel-image-zoom",
   "easy-typing-obsidian",
   "quick-latex",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "mysnippets-plugin",
+  "obsidian42-brat",
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "recent-files-obsidian",
+  "floating-toc",
+  "obsidian-advanced-slides",
+  "obsidian-table-generator",
+  "ob-table-enhancer"
 ]
