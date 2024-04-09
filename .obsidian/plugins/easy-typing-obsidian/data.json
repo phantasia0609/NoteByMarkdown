@@ -53,5 +53,6 @@
   "EnterTwice": false,
   "TryFixChineseIM": false,
   "PuncRectify": false,
-  "FixMacOSContextMenu": false
+  "FixMacOSContextMenu": false,
+  "TryFixMSIME": false
 }
