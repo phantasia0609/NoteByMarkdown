@@ -20,6 +20,7 @@ System.out.println(null instanceof Object);//false
 ```
 关于 null 类型的描述在官方文档：[https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.1](https://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.1) 有一些介绍。一般我们知道Java分为两种数据类型，一种是基本数据类型，有八个分别是 byte  short  int  long  float  double  char boolean,一种是引用类型，包括类，接口，数组等等。而Java中还有一种特殊的 null 类型，该类型没有名字，所以不可能声明为 null 类型的变量或者转换为 null 类型，null 引用是 null 类型表达式唯一可能的值，null 引用也可以转换为任意引用类型。我们不需要对 null 类型有多深刻的了解，我们只需要知道 null 是可以成为任意引用类型的**特殊符号**。
 
+
 在 [JavaSE规范](https://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.20.2) 中对 instanceof 运算符的规定就是：如果 obj 为 null，那么将返回 false。
 ### 3、obj 为 class 类的实例对象
 ```java
@@ -135,3 +136,4 @@ if (obj == null) {
 　　③、类类型：对类类型的 instanceof 则是遍历S的super链（继承链）一直到Object，看有没有跟T一致的。遍历类的super链意味着这个算法的性能会受类的继承深度的影响。
 
 参考链接：https://www.zhihu.com/question/21574535
+

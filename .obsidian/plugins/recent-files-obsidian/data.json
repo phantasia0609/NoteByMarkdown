@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "OOP 面向对象",
+      "path": "hit/软件构造/Class/OOP 面向对象.md"
+    },
+    {
+      "basename": "Data Type and Type Checking 数据类型与类型检验",
+      "path": "hit/软件构造/Data Type and Type Checking 数据类型与类型检验.md"
+    },
+    {
+      "basename": "二维凸包问题详解",
+      "path": "hit/软件构造/二维凸包问题详解.md"
+    },
+    {
+      "basename": "OOP 面向对象",
+      "path": "hit/软件构造/OOP 面向对象.md"
+    },
+    {
+      "basename": "111",
+      "path": "111.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "扣分",
+      "path": "扣分.md"
+    },
+    {
+      "basename": "test",
+      "path": "test.md"
+    },
+    {
       "basename": "instanceof关键字",
       "path": "编程学习/Coding/Java/instanceof关键字.md"
     },
@@ -23,14 +55,6 @@
     {
       "basename": "正则表达式",
       "path": "编程学习/正则表达式.md"
-    },
-    {
-      "basename": "Data Type and Type Checking 数据类型与类型检验",
-      "path": "hit/软件构造/Data Type and Type Checking 数据类型与类型检验.md"
-    },
-    {
-      "basename": "二维凸包问题详解",
-      "path": "hit/软件构造/二维凸包问题详解.md"
     },
     {
       "basename": "软件构造 _ 笔记1-不可变(immutable)设计原则",
@@ -67,10 +91,6 @@
     {
       "basename": "Software Construction Lab1 —— by Phantasia",
       "path": "hit/软件构造/Laboratory/Software Construction Lab1 —— by Phantasia.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.md"
     },
     {
       "basename": "2.滑动窗口【单调队列】",
