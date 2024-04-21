@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hit/软件构造/Class/OOP 面向对象.md",
+                "file": "编程学习/Algorithm/背包/01 背包.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "f5726da5a1f0bd2d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hit/软件构造/Class/OOP 面向对象.md",
+                "file": "编程学习/Algorithm/背包/01 背包.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hit/软件构造/Class/OOP 面向对象.md",
+                "file": "编程学习/Algorithm/背包/01 背包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hit/软件构造/Class/OOP 面向对象.md"
+                "file": "编程学习/Algorithm/背包/01 背包.md"
               }
             }
           }
@@ -182,6 +183,8 @@
   },
   "active": "2ba61b637ae4730a",
   "lastOpenFiles": [
+    "hit/软件构造/JavaDoc 中的 <pre> 和 <p> 标签.md",
+    "hit/软件构造/Class/OOP 面向对象.md",
     "hit/软件构造/Data Type and Type Checking 数据类型与类型检验.md",
     "hit/软件构造/二维凸包问题详解.md",
     "hit/软件构造/OOP 面向对象.md",
@@ -207,8 +210,6 @@
     "编程学习/Blog/Hexo 全记录.md",
     "日记/2023-11-05.md",
     "hit/软件构造/Laboratory/Software Construction Lab1 —— by Phantasia.md",
-    "编程学习/Algorithm/单调栈和单调队列/2.滑动窗口【单调队列】.md",
-    "编程学习/Algorithm/Fun/一些无意义刷题/排序贪心.md",
     "Excalidraw/未命名.canvas",
     "hit/软件构造/Laboratory",
     "鼓捣",
