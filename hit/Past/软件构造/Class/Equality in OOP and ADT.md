@@ -389,5 +389,3 @@ a.get("c") == b.get("c") → false
 - Safe from bugs. 正确地实现`equals()`和`hashCode()`对于`collection`类型用很重要（例如集合和映射），实现不可变类型时一定要重写这两个方法
 - Easy to understand. 使用者在阅读规约后会期望我们的 ADT 实现合理的相等操作
 - Ready for change. 为不可变类型实现的相等操作会把**引用相等**和**抽象值相等**分离，帮助避开隐秘的 bug
-
-> 本文使用 [Zhihu On VSCode](https://zhuanlan.zhihu.com/p/106057556) 创作并发布
