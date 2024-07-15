@@ -51,5 +51,8 @@
 文档列表视图：⌃⌘2 (control + command +2)
 文件树视图：⌃⌘3 (control + command + 3)
 
+\\ 进行换行
+
+\quad 间隔
 ```
 
